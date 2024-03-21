@@ -24,20 +24,20 @@ dispositivos.
 
 ## Tabla de Hardaware Utilizado
 
-
-|ESP32|Microcontrolador con 30 pines con comunicación WiFi y Bluetooth|1|$140.00|
----------------------------------------------------------------------------------
-|Cables Dupont|Cables para conexión de prototipos de pruebas|30|$30.00|
-|leds|Leds para iluminar las alas del ángel|30|$50.00|
-|Prothoboard|Conectar los leds|1|$60.00|
-|Motor a pasos|	Actuador rotativo o lineal que permite lograr un control preciso en cuanto a posición angular, aceleración y velocidad del eje|1|$60.00|
-|Sensor de proximidad|Detecta objetos que se acercan al sensor|1|$120.00|
-|Buzzer| Denotador de sonido |1|$30.00|
-|Tela|Vestido del ángel|1/2m|$30.00|
-|Plumas|Alas del ángel|1 bolsa|$20.00|
-|Limpiapipas|Estructura para las alas de ángel|8|$15.00|
-|triplay|base para los circuitos|20x20cm|$40.00|
----------------------------------------------------------
+|   Hardware  |                           Función                             |Cantidad| Precio |
+|-------------|-------------------------------------------------------------- |------- |--------|
+|     ESP32   |Microcontrolador con 30 pines con comunicación WiFi y Bluetooth|1       |$140.00 |
+|Cables Dupont|           Cables para conexión de prototipos de pruebas       |80      |$100.00 |
+|     leds    |           Leds para iluminar las alas del ángel               |30      |$50.00  |
+| Prothoboard |                    Conectar los leds                          |1       |$60.00  |
+|Motor a pasos|  	Actuador rotativo o lineal que permite lograr un control    |1       |$60.00  |
+|Sensor Proxi |           Detecta objetos que se acercan al sensor            |1       |$120.00 |
+|    Buzzer   |                  Denotador de sonido                          |1       |$30.00  |
+|     Tela    |                  Vestido del ángel                            |1m      |$30.00  |
+|    Plumas   |                    Alas del ángel                             |1b      |$20.00  |
+| Limpiapipas |            Estructura para las alas de ángel                  |8       |$15.00  |
+|   triplay   |           Base para los circuitos                             |20x20cm |$40.00  |
+------------------------------------------------------------------------------------------------
 
 ## Prototipo
 ![image](https://github.com/111linblink/mu-eco-iot/assets/146273461/a40c5bcb-7630-4204-9ba3-4347590207f5)
