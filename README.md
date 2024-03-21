@@ -48,6 +48,8 @@ dispositivos.
 
 ## Diagrama De Base de Datos
 
+![image](https://github.com/111linblink/mu-eco-iot/assets/146273461/434c3548-8349-4f60-9a2b-69aa9796934d)
+
 
 
 
